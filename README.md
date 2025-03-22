@@ -1,0 +1,1 @@
+# EXP.NO.6-Simulation-of-Hamming-and-Shannon-Fano-Code
