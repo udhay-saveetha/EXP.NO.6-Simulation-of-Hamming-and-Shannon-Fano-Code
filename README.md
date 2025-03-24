@@ -8,7 +8,7 @@ To implement Huffman and Shannon-Fano coding for a discrete memoryless source wi
 # SOFTWARE REQUIRED
 Personal Computer
 
-python 3.x
+python
 
 
 # ALGORITHMS
@@ -85,7 +85,7 @@ print(f"Average Codeword Length is : {L}")
 
 print(f"Entropy is : {hs}")
 
-print(f"Efficiency is : {eff}")
+print(f"Efficiency is : {eff * 100}%")
 
 print(f"Redudancy is : {red}")
 
@@ -96,11 +96,11 @@ Average Codeword Length is : 2.625
 
 Entropy is : 2.625
 
-Efficiency is : 1.0
+Efficiency is : 100.0%
 
 Redudancy is : 0.0
 
 Variance is : 0.484
  
 # CONCLUSIONS
-The experiment demonstrates the successful application of Shannon-Fano or Huffman coding, achieving optimal efficiency with no redundancy, which is ideal for data compression.
+The simulation of Hamming and Shannon-Fano Code was successfully completed using Python, demonstrating effective error detection and correction in Hamming Code and efficient data compression with minimal redundancy in Shannon-Fano Code.
