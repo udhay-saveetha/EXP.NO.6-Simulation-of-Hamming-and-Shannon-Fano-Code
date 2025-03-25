@@ -15,5 +15,4 @@
 # OUTPUT
 
  
-# CONCLUSIONS
-
+# RESULT
