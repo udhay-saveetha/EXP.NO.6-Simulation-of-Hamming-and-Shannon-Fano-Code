@@ -1,10 +1,4 @@
 # EXP.NO.6-Simulation-of-Hamming-and-Shannon-Fano-Code
-6. Simulation of Hamming and Shannon-Fano Code
-
-# AIM
-
-# SOFTWARE REQUIRED
-# EXP.NO.6-Simulation-of-Hamming-and-Shannon-Fano-Code
 
 # AIM
 To implement Huffman and Shannon-Fano coding for a discrete memoryless source with given probabilities and analyze the efficiency, redundancy, and variance.
@@ -105,15 +99,3 @@ Variance is : 0.484
  
 # RESULT
 The simulation of Hamming and Shannon-Fano Code was successfully completed using Python, demonstrating effective error detection and correction in Hamming Code and efficient data compression with minimal redundancy in Shannon-Fano Code.
-
-# ALGORITHMS
-
-
-# PROGRAM
-
-
-
-# OUTPUT
-
- 
-# RESULT
